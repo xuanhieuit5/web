@@ -1,0 +1,10 @@
+.hero-header {
+  background: linear-gradient(
+      rgba(248, 223, 173, 0.1),
+      rgba(248, 223, 173, 0.1)
+    ),
+    url(./img/anh10.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
